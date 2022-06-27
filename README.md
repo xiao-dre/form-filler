@@ -5,5 +5,5 @@ This is a repository for a console command generator for automatic form filling 
 
 
 ## Author
-xhfmvls (Vincent Pradipta) - Programmer
-xiao-dre (Andreas Alexander) - Assistant
+xhfmvls (Vincent Pradipta) - Programmer <br>
+xiao-dre (Andreas Alexander) - Assistant <br>
